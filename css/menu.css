@@ -20,6 +20,11 @@
   font-size: 2.25rem;
   font-weight: 700;
   margin: 0 10px;
+  transition: 0.3s;
+}
+
+.menu-logo a:hover {
+  color: #122ab2;
 }
 
 .menu-nav ul {
@@ -34,6 +39,6 @@
   transition: 0.3s;
 }
 
-.menu-nav a:hover{
-  color: #122AB2;
+.menu-nav a:hover {
+  color: #122ab2;
 }

@@ -1,0 +1,10 @@
+main {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.introducao {
+  font-size: 3rem;
+  line-height: 1;
+  padding: 60px 10px;
+}
